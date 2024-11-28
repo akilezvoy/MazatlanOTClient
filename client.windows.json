@@ -5441,5 +5441,9 @@
       "unpackedhash": "1739fb768b5bc5ce71440dd3ee42b18dcd583ddab1d9503690e41a6f6a1833f4",
       "unpackedsize": 1249
     }
-  ]
+  ],
+  "executable": "bin/client.exe",
+  "generation": "second",
+  "variant": "regular",
+  "revision": 1
 }
