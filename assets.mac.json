@@ -2,18 +2,18 @@
   "files": [
     {
       "localfile": "Contents/Resources/assets/appearances-d7ce621e00198dfa6d5dacfa05dfc2d06d8cee04e719d49f6e438e4f694c60a5.dat",
-      "packedhash": "20fb67d2f5c8dfbf385cc4aa3c08e84671a98c42516db43988c41c1e514aa408",
-      "packedsize": 777017,
+      "packedhash": "6d348cd1e04cc303e1f08e4fee75a05913bde652108bb549423885af68d37627",
+      "packedsize": 777030,
       "url": "assets/appearances-d7ce621e00198dfa6d5dacfa05dfc2d06d8cee04e719d49f6e438e4f694c60a5.dat.lzma",
-      "unpackedhash": "2d5673796cea8a0240614e3bde192038ac8337e27acee5040714d93ce73f573f",
-      "unpackedsize": 4440113
+      "unpackedhash": "ea2a032ed661b3509af3a5fd7ac377c8e781c3edf16b33017d5d160256c119fc",
+      "unpackedsize": 4440363
     },
     {
       "localfile": "Contents/Resources/assets/catalog-content.json",
-      "packedhash": "5a7639b68bf2f06e3bc717a87c8f944a2e10d0ce46c308787190964ccdb879be",
-      "packedsize": 212394,
+      "packedhash": "cb91019324f0e3136a68b672dd39f2b3ea42629ec1ca20c49b466cb68b265f9d",
+      "packedsize": 212395,
       "url": "assets/catalog-content.json.lzma",
-      "unpackedhash": "1402ab7c44f813e3f42e38a08a794c48479254b7f08895d599c88028c0fcb5fa",
+      "unpackedhash": "14123152813c909ab4c307266f4b81e9d3d725ab39636d1bc1e48f3c8daf7f1b",
       "unpackedsize": 997896
     },
     {
