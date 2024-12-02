@@ -49703,6 +49703,14 @@
       "url": "assets/subarea-0498-add4ddb33a8c3885e738a8c6e31111bf8edd60c28054f9b55036691edb442c6c.bmp.lzma",
       "unpackedhash": "4f646166ff51339a9eec7f38ba39a9c5a22d63620f0cd07d9e0f31dc805e867a",
       "unpackedsize": 898
+    },
+    {
+      "localfile": "assets/sprites-75639f1a03d47a4286aa3cb7dc178d9e517908145d2bf30c8fad376b5ee37a2a.bmp.lzma",
+      "packedhash": "c073c25b516e76a115231edd2038eae6f565665bf799a2af40de1ba31d75e0a3",
+      "packedsize": 2783,
+      "url": "assets/sprites-75639f1a03d47a4286aa3cb7dc178d9e517908145d2bf30c8fad376b5ee37a2a.bmp.lzma",
+      "unpackedhash": "c073c25b516e76a115231edd2038eae6f565665bf799a2af40de1ba31d75e0a3",
+      "unpackedsize": 2783
     }
   ],
   "version": 0
